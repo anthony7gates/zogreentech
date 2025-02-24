@@ -1,0 +1,6 @@
+Flask
+Python 3.9.13
+numpy
+pandas
+scikit-learn
+gunicorn==23.0.0
